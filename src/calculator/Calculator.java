@@ -1,5 +1,6 @@
 // Author: Nabil 
 // Date: 09/05/2023
+// Calculator App
 package calculator;
 
 public class Calculator {
